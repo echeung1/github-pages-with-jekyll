@@ -10,8 +10,8 @@ Hi my name is Eric. Some things I like are video games and basketball.
 Brag Sheet
 --
 
--Key Club:    I did comunity service which helped people and organizations reach their goals.
+-Key Club:       I did comunity service which helped people and organizations reach their goals.
 
--Pre-med Club:    I learned about different professions in the medical field.
+-Pre-med Club:     I learned about different professions in the medical field.
 
--Stevents Institute of Technology Summer Program:    I will learn python and do a project.
+-Stevents Institute of Technology Summer Program:      I will learn python and do a project.
