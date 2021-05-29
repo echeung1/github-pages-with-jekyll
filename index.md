@@ -8,7 +8,7 @@ Hi my name is Eric. Some things I like are video games and basketball.
 
 ---
 Brag Sheet
---
+-
 
 -Key Club:       I did comunity service which helped people and organizations reach their goals.
 
