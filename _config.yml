@@ -2,7 +2,7 @@ title: About Me
 author: Eric Cheung
 email: echeung@ebnet.org
 description: > # this means to ignore newlines until "baseurl:"
-  Contact me if you have any questions
+Contact me if you have any questions
 
 # social links
 github_username:  echeung1 # DO NOT include the @ character, or else the build will fail!
